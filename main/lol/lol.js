@@ -48,3 +48,6 @@ for (let i = 0; i < arr.length; i++) {
 
 console.log("-----------------------------------");
 console.log("현재 승률 1등은 " + arr[10].name + "입니다~!");
+
+
+document.getElementById("output").innerHTML = output;
